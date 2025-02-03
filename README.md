@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 ¡Hola, soy Carlos!<br>💻 Soy un entusiasta del desarrollo web front-end, aprendiendo y mejorando cada día. Desde Argentina 🇦🇷, a mis 40 años decidí sumergirme en este mundo de la programación y sigo explorando nuevas tecnologías.<br><br>🌱 Me encanta la naturaleza, viajar 🌍, el gimnasio 💪 y siempre tengo curiosidad por aprender algo nuevo 🤓.<br><br>📫 Conectemos:<br><br>Instagram: @f_carlitos<br>LinkedIn: Carlos Martín Folla<br>Email: karlosf@gmail.com
+# 👋 ¡Hola, soy Carlos!<br>
+💻 Soy un entusiasta del desarrollo web front-end, aprendiendo y mejorando cada día. Desde Argentina 🇦🇷, a mis 40 años decidí sumergirme en este mundo de la programación y sigo explorando nuevas tecnologías.<br><br>🌱 Me encanta la naturaleza, viajar 🌍, el gimnasio 💪 y siempre tengo curiosidad por aprender algo nuevo 🤓.<br><br>📫 Conectemos:<br><br>Instagram: @f_carlitos<br>LinkedIn: Carlos Martín Folla<br>Email: karlosf@gmail.com
 
 
 ## 🌐 Socials:
